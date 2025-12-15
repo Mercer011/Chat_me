@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "You coming today?",
+    "answer": "Bhai aaj shayad muskil hoga aana"
+  },
+  {
+    "id": 2,
+    "question": "Did you finish the assignment?",
+    "answer": "Bas complete hone he wala hai."
+  },
+  {
+    "id": 3,
+    "question": "Are you free this evening?",
+    "answer": "Haa bilkul, kya plan hai?"
+  },
+  {
+    "id": 4,
+    "question": "Can we meet tomorrow?",
+    "answer": "Chalo mujhe koi dikkat nhi hai"
+  }
+  ,{
+    "id": 5,
+    "question": "Will you join us for dinner?",
+    "answer": "Haa bhai bilkul,kab aana hai btao!"
+  }
+]

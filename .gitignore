@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model cache
+.cache/
+.huggingface/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# FAISS index (we will regenerate later)
+*.bin
