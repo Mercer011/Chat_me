@@ -18,4 +18,4 @@ suggests replies in my writing style based on semantic similarity with my past c
 ## Status
 Core RAG retrieval completed.
 Generation layer coming next.
-will be updating soon...
+will be updating soon.
